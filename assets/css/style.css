@@ -1,0 +1,11 @@
+*{
+    margin-right: 0;
+    margin-left: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+h1{
+    color: crimson;
+    font-size: 50px;
+    text-align: center;
+}
